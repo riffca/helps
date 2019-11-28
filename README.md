@@ -8,3 +8,5 @@
 [cheatsheets](https://devhints.io/)
 
 [uuid](https://gist.github.com/jed/982883)
+
+[docker объяснение](https://habr.com/ru/post/448094/)
