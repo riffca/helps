@@ -10,3 +10,5 @@
 [uuid](https://gist.github.com/jed/982883)
 
 [docker объяснение](https://habr.com/ru/post/448094/)
+
+[mini heroku](https://github.com/dokku/dokku)
